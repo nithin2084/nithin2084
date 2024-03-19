@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Full Stack web development and Data Structures.**
 
 - 📫 How to reach me **nithinpatil2084@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/nithin_ox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nithin_ox" height="30" width="40" /></a>
