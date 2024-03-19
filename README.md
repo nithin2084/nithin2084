@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nithin2084&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin2084&label=Profile%20views&color=0e75b6&style=flat" alt="nithin2084" /> </p>
----
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/nithin_ox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nithin_ox" height="30" width="40" /></a>
