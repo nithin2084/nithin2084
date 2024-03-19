@@ -4,11 +4,19 @@
 - 🌱 I’m currently learning **Full Stack web development and Data Structures.**
 
 - 📫 How to reach me **nithinpatil2084@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin2084&label=Profile%20views&color=0e75b6&style=flat" alt="nithin2084" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithin2084&show_icons=true&locale=en&layout=compact" alt="nithin2084" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithin2084&show_icons=true&locale=en" alt="nithin2084" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithin2084&" alt="nithin2084" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nithin2084&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nithin2084&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin2084&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nithin2084&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=nithin2084&icon=0&color=0)](https://visitcount.itsvg.in)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/nithin_ox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nithin_ox" height="30" width="40" /></a>
