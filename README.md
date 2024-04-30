@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm nithin</h1>
 <h3 align="center">A computer science enthusiast based in Bangalore, India. Welcome to my GitHub account!</h3>
 
-- 🌱 I’m currently learning **Mobile App Devlopment development .**
+- 🌱 I’m currently learning **Mobile App Devlopment .**
 
 - 📫 How to reach me **nithinpatil2084@gmail.com**
   
