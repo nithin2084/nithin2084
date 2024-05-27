@@ -15,7 +15,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin2084&label=Profile%20views&color=0e75b6&style=flat" alt="nithin2084" /> </p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nithin2084&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nithin2084&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin2084&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
