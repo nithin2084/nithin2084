@@ -1,7 +1,10 @@
+### 
+
 <div align="center">
-  <img height="150" src="https://images.app.goo.gl/BUSKNZ4Wg83BJ5GZA"  />
+  <img src="https://github.com/nithin2084/nithin2084/assets/128824573/ee960465-087b-41b8-9b5b-8fa028b9e825" alt="computer" width="300"/>
 </div>
 
+  
 ###
 
 <div align="center">
@@ -25,6 +28,8 @@
 ###
 
 <p align="left">I'm Nithin K Patil from BMSCE , Bengaluru<br><br>- 🔭 I’m currently in my 2nd year of engineering.<br>- 📚 I'm currently learning App development <br>- ⚡ In my free time I love to play chess , basketball and swimming.</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin2084&label=Profile%20views&color=0e75b6&style=flat" alt="nithin2084" /> </p>
 
 ###
 
@@ -69,5 +74,5 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithin2084&show_icons=true&locale=en&layout=compact" alt="nithin2084" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithin2084&show_icons=true&locale=en" alt="nithin2084" /></p>
