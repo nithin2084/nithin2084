@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm <strong>Nithin K Patil</strong> from <strong>BMSCE</strong>, <strong>Bengaluru</strong> <br><br>- 🔭 I’m currently in my <strong>4th year of engineering</strong>.<br>- 📫 How to reach me <strong>nithinpatil2084@gmail.com</strong><br>- ⚡ In my free time I love to play chess , basketball and swimming.<br></p>
+<p align="left">I'm <strong>Nithin K Patil</strong> , graduated from <strong>BMSCE</strong>, <strong>Bengaluru</strong> <br><br>- 🔭 I’m currently <strong>Software Engineer 1</strong>.<br>- 📫 How to reach me <strong>nithinpatil2084@gmail.com</strong><br>- ⚡ In my free time I love to play chess , basketball and swimming.<br></p>
 <p 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin2084&label=Profile%20views&color=0e75b6&style=flat" alt="nithin2084" /> </p>
 
@@ -70,9 +70,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithin2084&show_icons=true&locale=en&layout=compact" alt="nithin2084" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithin2084&show_icons=true&locale=en" alt="nithin2084" /></p>
